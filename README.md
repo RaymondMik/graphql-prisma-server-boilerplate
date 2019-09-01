@@ -1,4 +1,4 @@
-#GET STARTED
+<h2>GET STARTED</h2>
 1) clone it and yarn OR npm install
 2) in ./config, update your PRISMA_ENDPOINT, PRISMA_SECRET and JWT_SECRET for the different environments you want to have
 3) move to the ./prisma folder and deploy the relevant Docker container to Prisma by running the following:
@@ -10,7 +10,7 @@
 4) run yarn get-schema OR npm run get-schema
 5 run the app
 
-#If you use Heroku:
+<h3>If you use Heroku:</h3>
    ##Heroku commands needed here
    git push heroku master
 
