@@ -8,6 +8,7 @@
 
 3) update .graphqlschema wusing as the default endpoint the one you defined for dev
 4) run yarn get-schema OR npm run get-schema
+5 run the app
 
 #If you use Heroku:
    ##Heroku commands needed here
