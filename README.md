@@ -1,4 +1,4 @@
-<h2>GET STARTED</h2>ù
+<h2>GET STARTED</h2>
 <ol>
    <li>clone it and yarn OR npm install</li>
    <li>in ./config, update your PRISMA_ENDPOINT, PRISMA_SECRET and JWT_SECRET for the different environments you want to have</li>
@@ -13,9 +13,9 @@
 </ol>
 
 <h3>If you use Heroku:</h3>
-   ##Heroku commands needed here
+   <h4>Heroku commands needed here</h4>
    git push heroku master
 
-   ##Setup env variables
+   <h4>Setup env variables</h4>
    heroku config:set key=value
    heroku config:get key
